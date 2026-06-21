@@ -119,6 +119,14 @@ Clone the repository:
 git clone https://github.com/yourusername/Loan_Approval_Prediction.git
 ```
 
+## 🚀 Live Demo
+
+🔗 Streamlit App: https://prajwal457coder-loan-approval-prediction-system-app-8myebw.streamlit.app
+
+## 📂 GitHub Repository
+
+🔗 Repository: https://github.com/Prajwal457Coder/Loan-Approval-Prediction-System
+
 Move to the project directory:
 
 ```bash
